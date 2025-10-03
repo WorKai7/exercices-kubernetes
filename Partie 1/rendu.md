@@ -1,6 +1,8 @@
 # Rendu TP Virtualisation - Jérôme Vandewalle
 
-## Partie 1
+## Partie 1
+
+## ----------
 
 Visualisation des namespaces avant création:
 - ```kubectl get namespaces```
@@ -19,7 +21,7 @@ Visualisation des namespaces après création:
 
 
 
-## Partie 2
+## ----------
 
 ### Questions et commandes utilisées:
 
